@@ -7,5 +7,9 @@ Download Sublime Text. It's a text editor,that I love to use. A text editor is a
 
 Download
 https://www.sublimetext.com/
+( That's all for today, and also, do organise your desktop<just spend the day_1 in it> just make sure that your desktop is not an abominable mess. A part of being a good developer
+is being organized with your computer. The computer is the tool you are going to use and so, trust me on this, you're gonna fall behind if you don't have a good organization. So take a second to do that if you need, says my mentor.
+# Day_2(Party Tips! HTML is the Structure of your Page)
+Assuming you are in crystal clear shape, we are gonna start coding. 
 
 
